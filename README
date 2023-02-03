@@ -1,0 +1,19 @@
+# Sale System with php and jQuery
+
+Microvendas é um pequeno sistema de vendas para auxiliar na gestão de vendas de pequenas lojas.
+
+## Ferramentas utilizadas 
+<p>Linguagem php no back-end utilizando o padrão MVC.</p>
+<p>Biblioteca Jquery no front-end</p>
+
+## Imagem do projecto
+### Login
+<img src="./screens/1.png">
+
+### Menu Inicial
+<img src="./screens/2.png">
+
+### Efectuar Vendas
+<img src="./screens/3.png">
+
+<img src="./screens/4.png">
